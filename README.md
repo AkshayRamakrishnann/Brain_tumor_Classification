@@ -61,7 +61,7 @@ We trained both the VGG16 and ResNet50 models for 20 epochs using the augmented 
 ![image](https://github.com/AkshayRamakrishnann/Brain_tumor_Classification/assets/111365771/a433621f-c225-481c-8b42-3e9b6090ea55)
 
 
-## Conclusion (Continued)
+## Conclusion
 
 In this part of the project, we introduced a brain tumor classification task using MRI images. We explored the data, implemented data preprocessing and augmentation, and built and trained deep learning models using the VGG16 and ResNet50 architectures. While the models' performances were promising, there is room for further optimization and tuning to enhance their accuracy.
 
